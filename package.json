@@ -1,4 +1,4 @@
-{
+'{
   "description": "My Rest Api Project",
   "main": "index.js",
   "scripts": {
@@ -35,4 +35,4 @@
     "scraper-jsc": "^0.0.3",
     "ssl-express-www": "^3.0.7"
   },
-}
+}'
